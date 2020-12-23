@@ -10,4 +10,4 @@ First JavaScript challenge from the 2020 Web Development Bootcamp .
 * JavaScript
 
 ## Author
-Raviteja K (https://github.com/ravi1998-source)
+Raviteja K https://github.com/ravi1998-source
