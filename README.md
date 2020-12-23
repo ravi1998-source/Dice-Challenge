@@ -4,6 +4,7 @@ First JavaScript challenge from the 2020 Web Development Bootcamp. Simple two pl
 So everytime you reload the page the random values are generated and you will have new values. 
 
 ## Deployment
+https://ravi1998-source.github.io/Dice-Challenge/
 ![Alt text](https://github.com/ravi1998-source/Dice-Challenge/blob/main/images/Sample.png)
 
 ## Built With
